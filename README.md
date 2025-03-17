@@ -10,7 +10,7 @@ In 2025, I will be 19 years old.
 
 Im looking forward for more knowledges and opportunities.
 
-feel free to messages me to my email down below
+feel free to messages me to my email
 Hilmyathar354@gmail.com
 
 
