@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-My Name is Nauval Hilmy Firjatullah, im currently working as Civil Servant specifically at Indonesian Ministry of Immigration and Correction
+My name is Nauval Hilmy Firjatullah. I am currently working as a Civil Servant at the Indonesian Ministry of Immigration and Correction.
 
-I've learned plenty about front end website development and mastering about HTML, CSS, Javascript
-I've also learned a bit about the famous library for front end website development like Bootstrap and ReactJS
-I've also learned few about others programming language like Python and C
+I have learned a lot about front-end web development and have mastered HTML, CSS, and JavaScript. Additionally, I am familiar with popular front-end libraries such as Bootstrap and ReactJS. I also have some experience with other programming languages like Python and C.
+
+Besides programming, I have skills in video editing and design. I am familiar with tools like Sony Vegas Pro, Figma, and Canva.
 
 In 2025, I will be 19 years old.
 
-About my education track record, i was a college student at Polytechnic State of Bandung and majoring in informatics engineering. But it only lasts for one semesters because i got accepted as a Civil Servant at Indonesian Ministy. Despite of it, im looking forward for more knowledges and opportunities.
+Regarding my educational background, I was a student at the Polytechnic State of Bandung, majoring in Informatics Engineering. However, I only attended for one semester because I was accepted as a Civil Servant at the Indonesian Ministry. Despite that, I am eager to continue learning and seeking new opportunities.
 
-feel free to messages me to my email
-Hilmyathar354@gmail.com
+Feel free to contact me via email at Hilmyathar354@gmail.com.
 
 
