@@ -8,7 +8,7 @@ I've also learned few about others programming language like Python and C
 
 In 2025, I will be 19 years old.
 
-Im looking forward for more knowledges and opportunities.
+About my education track record, i was a college student at Polytechnic State of Bandung and majoring in informatics engineering. But it only lasts for one semesters because i got accepted as a Civil Servant at Indonesian Ministy. Despite of it, im looking forward for more knowledges and opportunities.
 
 feel free to messages me to my email
 Hilmyathar354@gmail.com
