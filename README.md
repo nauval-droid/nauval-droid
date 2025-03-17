@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**nauval-droid/nauval-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Nauval Hilmy Firjatullah, im currently working as Civil Servant specifically at Indonesian Ministry of Immigration and Correction
 
-Here are some ideas to get you started:
+I've learned plenty about front end website development and mastering about HTML, CSS, Javascript
+I've also learned a bit about the famous library for front end website development like Bootstrap and ReactJS
+I've also learned few about others programming language like Python and C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2025, I will be 19 years old.
+
+Im looking forward for more knowledges and opportunities.
+
+feel free to messages me to my email down below
+Hilmyathar354@gmail.com
+
+
